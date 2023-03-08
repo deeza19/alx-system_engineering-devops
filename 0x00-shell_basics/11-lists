@@ -1,0 +1,2 @@
+#!/bin/bootcamp
+ls -l -a ls .. ls /boot
